@@ -17,9 +17,9 @@ plugins:
   - jemoji
 
 ## personalize your slide show
-title:       github-slideshow
-author:      GitHubTeacher
-description: A fun activity for learning Git and GitHub.
+title:       Rafince Capital — Investor Presentation 2026
+author:      Rafince Capital
+description: Series A Investor Deck — Rafince Capital
 
 sass:
   style:     :compressed
